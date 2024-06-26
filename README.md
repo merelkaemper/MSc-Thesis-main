@@ -1,10 +1,10 @@
 # Code Files for MSc Thesis
 ## Predicting Delayed Trajectories Using Network Features: A Study on the Dutch Railway Network
-Name & student nr.: Merel Kämper (15137015) 
+Name & student number: Merel Kämper (15137015) 
 
 Date: June 2024
 
-University of Amsterdam, Information Studies: Data Science track
+University of Amsterdam, Information Studies: Data Science 
 
 ## Layout
 Two different branches are created for this research:
