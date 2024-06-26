@@ -1,9 +1,9 @@
 # Code Files for MSc Thesis
-Merel Kämper, 15137015
+Name & student nr.: Merel Kämper (15137015) 
+
+Date: June 2024
 
 University of Amsterdam, Information Studies: Data Science track
-
-June 2024
 
 ## Layout
 Two different branches are created for this research:
