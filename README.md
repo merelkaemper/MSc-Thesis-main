@@ -1,12 +1,4 @@
-
-## Code for MSc Thesis
-Merel Kämper, 15137015
-
-Information Studies: Data Science track
-
-### Predicting Delayed Trajectories Using Network Features: A Study on the Dutch Railway Network <br/>
-
-This is the repository associated with the paper **"Forecasting the evolution of fast-changing transportation networks using machine learning" Nature Communications (2022)**<br/>
+## NS Data & Models
 **Repository structure:** <br/>
 
 * **data/** -- data folder to add NS archive train data from (https://www.rijdendetreinen.nl/open-data/treinarchief)
