@@ -1,5 +1,5 @@
 ## US Air Data & Models
-Much of this code is from the article by Lei et al. Forecasting the evolution of fast-changing transportation networks using machine learning (2022) <br/>
+Much of this code is from the article by Lei et al. "Forecasting the evolution of fast-changing transportation networks using machine learning" (2022) <br/>
 Original GitHub: https://github.com/amarallab/transportation_network_evolution/blob/master/README.md?plain=1
 Their code is implemented as a baseline for this Thesis and eventually improved to fit NS Train data (see other breach)
 
